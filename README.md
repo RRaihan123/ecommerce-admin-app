@@ -1,4 +1,4 @@
-This Ecommerce Admin App has been developed using Next.js.
+This Ecommerce Admin App has been developed using Next.js and MongoDB.
 
 ## Libraries used here are below
 1. Axios
